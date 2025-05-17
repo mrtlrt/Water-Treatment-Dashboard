@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mrtlrt/Water-Treatment-Dashboard.git/static/css/main.bc0a6738.css",
-    "main.js": "/mrtlrt/Water-Treatment-Dashboard.git/static/js/main.03dc4cb5.js",
-    "static/js/453.d339c4d3.chunk.js": "/mrtlrt/Water-Treatment-Dashboard.git/static/js/453.d339c4d3.chunk.js",
-    "index.html": "/mrtlrt/Water-Treatment-Dashboard.git/index.html",
-    "main.bc0a6738.css.map": "/mrtlrt/Water-Treatment-Dashboard.git/static/css/main.bc0a6738.css.map",
-    "main.03dc4cb5.js.map": "/mrtlrt/Water-Treatment-Dashboard.git/static/js/main.03dc4cb5.js.map",
-    "453.d339c4d3.chunk.js.map": "/mrtlrt/Water-Treatment-Dashboard.git/static/js/453.d339c4d3.chunk.js.map"
+    "main.css": "/Water-Treatment-Dashboard/static/css/main.bc0a6738.css",
+    "main.js": "/Water-Treatment-Dashboard/static/js/main.385b6af0.js",
+    "static/js/453.d339c4d3.chunk.js": "/Water-Treatment-Dashboard/static/js/453.d339c4d3.chunk.js",
+    "index.html": "/Water-Treatment-Dashboard/index.html",
+    "main.bc0a6738.css.map": "/Water-Treatment-Dashboard/static/css/main.bc0a6738.css.map",
+    "main.385b6af0.js.map": "/Water-Treatment-Dashboard/static/js/main.385b6af0.js.map",
+    "453.d339c4d3.chunk.js.map": "/Water-Treatment-Dashboard/static/js/453.d339c4d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc0a6738.css",
-    "static/js/main.03dc4cb5.js"
+    "static/js/main.385b6af0.js"
   ]
 }
