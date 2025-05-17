@@ -26,7 +26,7 @@ function App() {
     const loadData = async () => {
       try {
         // Use fetch API to get the CSV file
-        const response = await fetch('/water_treatment_5days_1sec_data.csv');
+        const response = await fetch(`${process.env.PUBLIC_URL}/water_treatment_5days_1sec_data.csv`);
         const csvContent = await response.text();
         
         Papa.parse(csvContent, {
